@@ -1,2 +1,2 @@
 # bits
-Yard of stuff that may or may not work.
+This Repo contains many *ideas* that I am working on.
